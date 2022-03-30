@@ -1,0 +1,37 @@
+body {
+    background: rgb(88, 153, 214);
+    font: normal 17pt Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+section {
+     background: white;
+     border-radius: 10px;
+     padding: 8px;
+     width: 500px;
+     height: 320px;
+     margin: auto;
+     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.466);
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    -webkit-filter: drop-shadow(3px 3px 10px rgba(0, 0, 0, 0.274));
+    filter: drop-shadow(3px 3px 10px rgba(0, 0, 0, 0.274));
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
